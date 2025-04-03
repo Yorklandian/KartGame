@@ -1532,7 +1532,7 @@ PrefabInstance:
     - target: {fileID: 5299470724815065455, guid: 1ccb281bf7e7016499710b2434ee5a1c,
         type: 3}
       propertyPath: m_BehaviorType
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5299470724815065455, guid: 1ccb281bf7e7016499710b2434ee5a1c,
         type: 3}
@@ -1557,27 +1557,27 @@ PrefabInstance:
     - target: {fileID: 5299470724815065455, guid: 1ccb281bf7e7016499710b2434ee5a1c,
         type: 3}
       propertyPath: 'm_BrainParameters.VectorActionSize.Array.data[0]'
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 5299470724815065455, guid: 1ccb281bf7e7016499710b2434ee5a1c,
         type: 3}
       propertyPath: m_BrainParameters.m_ActionSpec.BranchSizes.Array.size
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5299470724815065455, guid: 1ccb281bf7e7016499710b2434ee5a1c,
         type: 3}
       propertyPath: m_BrainParameters.m_ActionSpec.m_NumContinuousActions
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 5299470724815065455, guid: 1ccb281bf7e7016499710b2434ee5a1c,
         type: 3}
       propertyPath: 'm_BrainParameters.m_ActionSpec.BranchSizes.Array.data[0]'
-      value: 3
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5299470724815065455, guid: 1ccb281bf7e7016499710b2434ee5a1c,
         type: 3}
       propertyPath: 'm_BrainParameters.m_ActionSpec.BranchSizes.Array.data[1]'
-      value: 3
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
